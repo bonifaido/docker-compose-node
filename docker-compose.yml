@@ -1,0 +1,4 @@
+node:
+  build: https://github.com/bonifaido/docker-compose-node.git
+  ports:
+   - "8080:8080"

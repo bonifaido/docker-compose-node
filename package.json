@@ -1,0 +1,20 @@
+{
+  "name": "docker-compose-node",
+  "version": "1.0.0",
+  "description": "docker compose with a node app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bonifaido/docker-compose-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bonifaido/docker-compose-node/issues"
+  },
+  "homepage": "https://github.com/bonifaido/docker-compose-node#readme"
+}
